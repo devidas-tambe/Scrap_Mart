@@ -13,7 +13,7 @@ const CATEGORIES = [
   {
     id: "plastic",
     name: "Plastic",
-    icon: "fas fa-bottle-water",
+    icon: "fas fa-bottle-water", 
     color: "#3b82f6",
     desc: "PET bottles, HDPE, PVC, polythene & other plastics",
     baseRate: 12,
