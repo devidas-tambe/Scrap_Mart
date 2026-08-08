@@ -9,7 +9,7 @@ let state = {
   transactions: [],
   coinsByCompany: {}, // { companyId: coinCount }
   coupons: [],        // { companyId, code, offer, date }
-};
+}; 
 
 // ===== INIT =====
 document.addEventListener("DOMContentLoaded", () => {
