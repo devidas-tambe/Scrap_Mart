@@ -10,7 +10,7 @@ const CATEGORIES = [
     baseRate: 28,
     coinPer10kg: 15,
   }, 
-  {
+  { 
     id: "plastic",
     name: "Plastic",
     icon: "fas fa-bottle-water", 
