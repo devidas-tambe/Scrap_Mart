@@ -9,7 +9,7 @@ const CATEGORIES = [
     desc: "Iron, steel, copper, aluminium & all metal scrap",
     baseRate: 28,
     coinPer10kg: 15,
-  },
+  }, 
   {
     id: "plastic",
     name: "Plastic",
