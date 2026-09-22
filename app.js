@@ -5,7 +5,7 @@ let state = {
   coins: 0,
   totalEarned: 0,
   totalOrders: 0,
-  totalKg: 0,
+  totalKg: 0, 
   transactions: [],
   coinsByCompany: {}, // { companyId: coinCount }
   coupons: [],        // { companyId, code, offer, date }
